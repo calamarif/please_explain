@@ -4,7 +4,7 @@ Automatically generate feature effects and prediction explanations in DataRobot 
 
 There is a notebook solution that will require an additional file called "drconfig.yaml" and will be formatted like:
 
-'''
-token: "longtokenherepastedfromdatarobot"
+<b>
+token: "longtokenherepastedfromdatarobot" <br>
 endpoint: https://app.datarobot.com/api/v2
-'''
+</b>
